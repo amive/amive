@@ -1,8 +1,6 @@
-<img align="center" height="222" src="https://avatars.githubusercontent.com/u/62792200?v=4"  />
-
-###
-
-<h1 align="center">أمين</h1>
+<div align="center">
+  <img height="210" src="https://avatars.githubusercontent.com/u/62792200?v=4"  />
+</div>
 
 ###
 
