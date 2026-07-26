@@ -1,4 +1,4 @@
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-grerifa-785206335) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@w7f) 
 
@@ -12,10 +12,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amive&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=amive&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aminegrerifa20052@gmail.com) 
 
   
+</div>
