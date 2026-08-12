@@ -10,8 +10,6 @@
 ![](https://streak-stats.demolab.com/?user=amive&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amive&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amive&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 
 
